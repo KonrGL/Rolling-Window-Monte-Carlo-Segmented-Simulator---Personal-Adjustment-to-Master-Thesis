@@ -1,0 +1,1 @@
+# Rolling-Window-Monte-Carlo-Segmented-Simulator---Personal-Adjustment-to-Master-Thesis
